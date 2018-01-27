@@ -70,7 +70,7 @@
 			onoff: ['ON', 'OFF'],
             led:['ALL','A','B','C','D'],
             motorQuad:["LF","RF","LB","RB","ALL"],
-            motorPWM:['0','120','150','180'],
+            motorPWM:['0','30','60','90'],
             flightDir:['FORWARD',"BACKWARD","LEFT","RIGHT"],
             flightRotate:['CR','CCR'],
 			flightUpOrDown:['UP','DOWN'],
